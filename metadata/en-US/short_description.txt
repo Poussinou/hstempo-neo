@@ -1,0 +1,1 @@
+With this app, users can tap to music beats and obtain it's bpm.

@@ -1,0 +1,1 @@
+HSTempo Neo is a music tempo measurement app. It features a single-tap button that can be tapped in time with the music. The BPM is calculated in real time and displayed on the screen. This is a fork of the existing app HSTempo; this version has been updated to work on modern Android devices (Android 15+).
